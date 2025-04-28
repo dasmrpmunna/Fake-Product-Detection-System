@@ -140,11 +140,11 @@ npm run dev
 
 ## 📬 Contact  
 
-💻 **Developed by [Manish Patel](https://github.com/its-maneeshk)**  
+💻 **Developed by [Manish Patel/Vikash Thakur/Munna Das/Shubham Jhadav](https://github.com/dasmrpmunna)**  
 
-📧 **Email:** [maneeshkurmii@gmail.com](mailto:maneeshkurmii@gmail.com)  
-🔗 **LinkedIn:** [itsmaneeshk](https://www.linkedin.com/in/itsmaneeshk/)  
-📷 **Instagram:** [its_maneeshk_](https://www.instagram.com/its_maneeshk_/)  
+📧 **Email:** [mrpmunnadas@gmail.com](mailto:mrpmunnadas@gmail.com)  
+🔗 **LinkedIn:** [dasmrpmunna](https://www.linkedin.com/in/dasmrpmunna/)  
+📷 **Instagram:** [dasmrpmunna](https://www.instagram.com/dasmrpmunna/)  
 
 ---
 

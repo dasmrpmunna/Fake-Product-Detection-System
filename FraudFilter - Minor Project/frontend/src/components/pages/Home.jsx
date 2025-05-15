@@ -336,7 +336,7 @@ const Home = () => {
                             <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4 px-4">
                                 {/* GitHub Repo Button */}
                                 <a
-                                    href="https://github.com/its-maneeshk/Fake-Product-Detection-System.git"
+                                    href="https://github.com/dasmrpmunna/Fake-Product-Detection-System"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center justify-center font-semibold text-gray-950 bg-[#E2FECC] py-6 px-6 rounded-lg w-full sm:w-auto hover:bg-white hover:scale-105 transition-transform focus:outline-none shadow-md"
@@ -352,7 +352,7 @@ const Home = () => {
 
                                 {/* Contribute Button */}
                                 <a
-                                    href="https://github.com/login?return_to=%2Fits-maneeshk%2FFake-Product-Detection-System"
+                                    href="https://github.com/dasmrpmunna/Fake-Product-Detection-System"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex flex-col sm:flex-row items-center justify-center text-center sm:text-start font-semibold text-gray-950 bg-white py-3 px-6 rounded-lg w-full sm:w-auto hover:bg-gray-100 hover:scale-105 transition-transform duration-200 focus:outline-none shadow-md"

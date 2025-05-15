@@ -18,7 +18,7 @@ const Header = () => {
                 </nav>
                 <div className="flex justify-center">
                     <a
-                        href='https://github.com/its-maneeshk/Fake-Product-Detection-System.git'
+                        href='https://github.com/dasmrpmunna/Fake-Product-Detection-System'
                         target='_blank'
                         rel='noopener noreferrer'
                         className="inline-flex items-center justify-center w-auto text-gray-950 bg-white border-0  py-2 px-6 focus:outline-none hover:bg-stone-200 hover:scale-105 transition-transform duration-200 rounded-lg text-lg">

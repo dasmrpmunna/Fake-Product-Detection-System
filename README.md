@@ -150,7 +150,7 @@ All trademarks and product information belong to their respective owners.
 
 ## 📬 Contact  
 
-💻 **Developed by [Manish Patel/Vikash Thakur/Munna Das/Shubham Jhadav](https://github.com/dasmrpmunna)**  
+💻 **Developed by [Manish Patel/Munna Das/Vikash Thakur/Shubham Jhadav](https://github.com/dasmrpmunna)**  
 
 📧 **Email:** [mrpmunnadas@gmail.com](mailto:mrpmunnadas@gmail.com)  
 🔗 **LinkedIn:** [dasmrpmunna](https://www.linkedin.com/in/dasmrpmunna/)  
@@ -170,4 +170,4 @@ All trademarks and product information belong to their respective owners.
 
 ---
 
-🔹 **Follow my work on** [GitHub](https://github.com/its-maneeshk) & let's build something amazing together! 🚀
+🔹 **Follow my work on** [GitHub](https://github.com/dasmrpmunna) & let's build something amazing together! 🚀

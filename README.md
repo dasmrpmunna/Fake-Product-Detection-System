@@ -1,4 +1,4 @@
-# 🚀 Fraud Filter - Fake Product Detection System  
+# Fraud Filter - Fake Product Detection System  
 
 **Fake Product Review Detection System 📌**  
 The **Fake Product Detection System** is a **machine learning-powered web application** that helps users identify whether a product has **genuine or manipulated reviews** on eCommerce platforms. It leverages **Natural Language Processing (NLP)** and **supervised learning models** to analyze reviews and detect fake ones.
@@ -129,6 +129,16 @@ npm run dev
 
 
 📌 More detailed **UI screenshots** can be found in the project_images/ folder.
+
+---
+
+## Disclaimer
+
+> This project is **developed for educational and research purposes only.**
+We have used publicly available product reviews from Flipkart to analyze and detect fake reviews.
+No part of this project is intended for commercial use or to infringe on Flipkart’s rights.
+All trademarks and product information belong to their respective owners.
+*If required, we are willing to remove any data or content upon request.*
 
 ---
 
